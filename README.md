@@ -13,6 +13,6 @@ I guess that's it
 ## How to run
 just run demo.py  
 or
-'''
+```
 python demo.py
-'''
+```
