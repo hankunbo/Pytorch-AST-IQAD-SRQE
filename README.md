@@ -8,9 +8,11 @@ Our code is borrowed parts from DISTS[https://github.com/dingkeyan93/DISTS] and 
 
 ## Requirement
 torch, PIL, numpy, scipy
-    I guess that's it
+#I guess that's it
 
 ## How to run
 just run demo.py
 or
-`<python demo.py>`
+'''
+python demo.py
+'''
